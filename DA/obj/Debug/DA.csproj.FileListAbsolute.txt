@@ -1,0 +1,10 @@
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\bin\Debug\DA.exe.config
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\bin\Debug\DA.exe
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\bin\Debug\DA.pdb
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\obj\Debug\DA.Properties.Resources.resources
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\obj\Debug\DA.csproj.GenerateResource.Cache
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\obj\Debug\DA.exe
+c:\users\kimsohyun\documents\visual studio 2013\Projects\DA\DA\obj\Debug\DA.pdb
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\DA.mainfrm.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\DA.About.resources

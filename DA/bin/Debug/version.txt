@@ -1,0 +1,2 @@
+1.0.0.0
+http://computer-vision-uit.96.lt/version.txt

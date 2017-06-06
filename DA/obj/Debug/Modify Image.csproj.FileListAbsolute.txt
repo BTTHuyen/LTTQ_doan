@@ -1,0 +1,231 @@
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.exe
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.pdb
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.exe
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.pdb
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.exe
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.pdb
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.exe
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.pdb
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.dll
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.dll
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.xml
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Math.xml
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.xml
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\KimSoHyun\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.exe
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\ModifyImg.exe.config
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.dll
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Imaging.dll
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Video.DirectShow.dll
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Video.dll
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.xml
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Imaging.xml
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Math.xml
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Video.xml
+E:\học kì 6\Lập trình trực quan\đồ án\DA\bin\Debug\AForge.Video.DirectShow.xml
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.About.resources
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.Camera.resources
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.mainfrm.resources
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+E:\học kì 6\Lập trình trực quan\đồ án\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\quvng\Downloads\đồ án\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\quvng\Downloads\đồ án\DA\obj\Debug\ModifyImg.exe
+C:\Users\quvng\Downloads\đồ án\DA\obj\Debug\ModifyImg.pdb
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.exe
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\ModifyImg.pdb
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Math.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\IT008\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\ModifyImg.exe.config
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.dll
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Imaging.dll
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Video.DirectShow.dll
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Video.dll
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.xml
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Imaging.xml
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Math.xml
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Video.xml
+E:\học kì 6\Lập trình trực quan\ds\DA\bin\Debug\AForge.Video.DirectShow.xml
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.About.resources
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.Camera.resources
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.mainfrm.resources
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+E:\học kì 6\Lập trình trực quan\ds\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\ModifyImg.exe.config
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.dll
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Imaging.dll
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Video.DirectShow.dll
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Video.dll
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.xml
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Imaging.xml
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Math.xml
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Video.xml
+E:\học kì 6\Lập trình trực quan\DA\DA\bin\Debug\AForge.Video.DirectShow.xml
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.About.resources
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.Camera.resources
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.mainfrm.resources
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+E:\học kì 6\Lập trình trực quan\DA\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.exe
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.pdb
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.exe
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\ModifyImg.pdb
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Video.dll
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Video.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\quvng\Documents\Visual Studio 2013\Projects\DA\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\ModifyImg.exe.config
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\ModifyImg.exe
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\ModifyImg.pdb
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.dll
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Imaging.dll
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Video.DirectShow.dll
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Video.dll
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.xml
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Imaging.xml
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Math.xml
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Video.xml
+E:\học kì 6\Lập trình trực quan\DA1\DA\bin\Debug\AForge.Video.DirectShow.xml
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.About.resources
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.Camera.resources
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.mainfrm.resources
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+E:\học kì 6\Lập trình trực quan\DA1\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\ModifyImg.exe.config
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.exe
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.pdb
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\ModifyImg.exe
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\ModifyImg.pdb
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.dll
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Imaging.dll
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Video.DirectShow.dll
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Video.dll
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.xml
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Imaging.xml
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Video.xml
+D:\Users\Kibou\Desktop\DA\DA\DA\bin\Debug\AForge.Video.DirectShow.xml
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.About.resources
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.Camera.resources
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.mainfrm.resources
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+D:\Users\Kibou\Desktop\DA\DA\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.dll
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Video.dll
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.xml
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Video.xml
+C:\Users\이도신\Downloads\DA\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\이도신\Downloads\DA\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.dll
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Video.dll
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.xml
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Video.xml
+C:\Users\이도신\Downloads\Compressed\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.Update.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\ModifyImg.wait.resources
+C:\Users\이도신\Downloads\Compressed\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\이도신\Downloads\DA\bin\Debug\ModifyImg.exe.config
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\DA\bin\Debug\ModifyImg.exe
+C:\Users\이도신\Downloads\DA\bin\Debug\ModifyImg.pdb
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.dll
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Imaging.dll
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Video.dll
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.xml
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Imaging.xml
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Video.xml
+C:\Users\이도신\Downloads\DA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\이도신\Downloads\DA\obj\Debug\Modify Image.csprojResolveAssemblyReference.cache
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.About.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.Camera.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.mainfrm.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.Properties.Resources.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.Update.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\ModifyImg.wait.resources
+C:\Users\이도신\Downloads\DA\obj\Debug\Modify Image.csproj.GenerateResource.Cache
